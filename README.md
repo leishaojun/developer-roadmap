@@ -9,7 +9,7 @@
 
 ***
 
-<p align="center"><b> Want to learn something new?</b><br>Visit <a href="http://hugobots.com">Hugobots</a> where I teach people</p>
+<p align="center"><b> 想要学习新的东西 ？</b><br>访问 <a href="http://hugobots.com">Hugobots</a> 我在那里教人</p>
 
 ***
 
@@ -23,7 +23,7 @@
 
 ## 👽 后端路线图
 
-For the backend, personally I would prefer Node.js and PHP 7 for the full time plus I have been experimenting lately with Go and I quite like it. Apart from these, if I have to choose another one, I would go for Ruby. However this is just my personal preference, you can choose any of the shown languages and you will be good.
+对于后端，我个人希望全天候的学习 Node.js 和 PHP 7 加上我最近一直在试验 Go ，我非常喜欢它。 除了这些，如果要我必须选择另一个，我会选Ruby。 不过这只是我个人喜好，你可以选择任何一种显示的语言，你会变得很好。
 
 ![](https://i.imgur.com/m9V8ZiV.png)
 
