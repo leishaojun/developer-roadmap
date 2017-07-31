@@ -1,15 +1,15 @@
 ![Web Developer Roadmap](http://i.imgur.com/GyvcunJ.png)
 
-> 2017 年 web 开发学习线路图
+> 2017 年成为 web 开发者学习线路图
 
-下面的图表分别展示了前端、 后端和 DevOps 的线路图， 为开发人员提供了学习路线和相关的技术。
+下面的图表分别展示了前端、 后端和 DevOps 的学习线路图， 为开发人员提供了学习路线和相关的技术。
 
 如果您认为有可以改进的地方，请提出建议。
 
 
 ***
 
-<p align="center"><b> 想要学习新的东西 ？</b><br>访问 <a href="http://hugobots.com">Hugobots</a> 我在那里教人</p>
+<p align="center"><b> 你喜欢这本指南，想要更多的类似内容吗？</b><br>我们即将发布 <a href="http://hugobots.com">Hugobots</a> 。记得订阅！</p>
 
 ***
 
