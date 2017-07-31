@@ -33,9 +33,9 @@
 
 <br>
 
-## 🚦 Wrap Up
+## 🚦 总结
 
-If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
+如果你有改进的建议，请 PR 获取提交 issue ，我们会持续改进优化，你可以 watch 或者 star 本仓库方便查看。
 
 ## ☑ TODO
 
